@@ -3,7 +3,7 @@
 
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://astounding-sundae-d42af5.netlify.app/" target="_blank">Vasco Eti</a>
+  <a href="https://vasco-resume.netlify.app/" target="_blank">Vasco Eti</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./src/assets/Home/dmg.png" />
